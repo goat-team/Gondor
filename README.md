@@ -2,29 +2,23 @@
 
 This utility assists with managing and tracking your different Bitcoin addresses with plans to support compatible alts in the future as well.
 
+## Sponsors
+This project is being supported by these **generous** Github Sponsors:
+- [Sponsor Me!](https://github.com/users/mikeyb/sponsorship)
+
 ## Requirements
 
 - [NVM/NPM](https://github.com/nvm-sh/nvm)
 - Yarn `npm install -g yarn`
 
 ## Installation
-- `git clone https://github.com/mikeyb/Gondor.git`
-  - or `git clone git@github.com:mikeyb/Gondor.git`
+- `git clone https://github.com/goat-team/Gondor.git`
+  - or `git clone git@github.com:goat-team/Gondor.git`
 - `cd Gondor`
 - `yarn install`
 
 ## Usage
 `node wallet`
-
-## Supported Coins
-- BTC
-- ETC
-- LTC
-- ETH
-- DOGE
-- VTC
-- CRW
-- ZEC
 
 ## Features
 - Offline wallet management
