@@ -8,6 +8,6 @@
     "enquirer": "^2.3.1",
     "ethereumjs-util": "^6.1.0",
     "got": "^9.6.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
