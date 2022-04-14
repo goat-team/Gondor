@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "bitcore": "^4.1.1",
     "bitcore-lib": "^8.5.1",
     "bitcore-mnemonic": "^8.5.1",
