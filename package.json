@@ -7,7 +7,7 @@
     "elliptic": "^6.5.4",
     "enquirer": "^2.3.1",
     "ethereumjs-util": "^6.1.0",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "underscore": "^1.12.1"
   }
 }
